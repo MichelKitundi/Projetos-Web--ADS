@@ -5,8 +5,9 @@
 
 ###  Projetos de  Front-end 🤓
 
-* [ CSS Flexbox e layouts responsivos 01 - ALURA-PLAY ](#id01)  
- 
+* [ CSS Flexbox e layouts responsivos             01 - ALURA-PLAY ](#id01)  
+* [ CSS construindo layouts com Grid              02 - ALURACAST ](#id02) 
+* [ SASS CSS sintaticamente espetacular           03 - ALURASPA ](#id03) 
 
 
  ##   ALURA-PLAY <a name="id01"></a>
